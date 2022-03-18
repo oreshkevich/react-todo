@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-todo/static/css/main.0643021c.chunk.css",
+    "main.js": "/react-todo/static/js/main.6b095194.chunk.js",
+    "main.js.map": "/react-todo/static/js/main.6b095194.chunk.js.map",
+    "runtime-main.js": "/react-todo/static/js/runtime-main.deacedc9.js",
+    "runtime-main.js.map": "/react-todo/static/js/runtime-main.deacedc9.js.map",
+    "static/css/2.c3a70c9e.chunk.css": "/react-todo/static/css/2.c3a70c9e.chunk.css",
+    "static/js/2.4a1b2d99.chunk.js": "/react-todo/static/js/2.4a1b2d99.chunk.js",
+    "static/js/2.4a1b2d99.chunk.js.map": "/react-todo/static/js/2.4a1b2d99.chunk.js.map",
+    "index.html": "/react-todo/index.html",
+    "static/css/2.c3a70c9e.chunk.css.map": "/react-todo/static/css/2.c3a70c9e.chunk.css.map",
+    "static/css/main.0643021c.chunk.css.map": "/react-todo/static/css/main.0643021c.chunk.css.map",
+    "static/js/2.4a1b2d99.chunk.js.LICENSE.txt": "/react-todo/static/js/2.4a1b2d99.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/react-todo/static/media/bootstrap-icons.c1d7432e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.deacedc9.js",
+    "static/css/2.c3a70c9e.chunk.css",
+    "static/js/2.4a1b2d99.chunk.js",
+    "static/css/main.0643021c.chunk.css",
+    "static/js/main.6b095194.chunk.js"
+  ]
+}
